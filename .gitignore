@@ -25,3 +25,5 @@ creds.json
 *.crt
 *.key
 data
+
+.idea/
